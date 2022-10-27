@@ -1,23 +1,23 @@
-import 'package:aula_widget/src/exercicio01.dart';
-import 'package:aula_widget/src/exercicio02.dart';
-import 'package:aula_widget/src/exercicio03.dart';
-import 'package:aula_widget/src/exercicio04.dart';
-import 'package:aula_widget/src/exercicio05.dart';
+import 'package:aula_widget/src/Exercicio01/exercicio01.dart';
+import 'package:aula_widget/src/Exercicio02/exercicio02.dart';
+import 'package:aula_widget/src/Exercicio03/exercicio03.dart';
+import 'package:aula_widget/src/Exercicio04/exercicio04.dart';
+import 'package:aula_widget/src/Exercicio05/exercicio05.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  //Exercício das moedas:
-  // runApp(const Coin());
+  //Exercício AppBar
+  // runApp(const Coffee());
 
-  //Exercício de reuso
-  // runApp(const MyComponent());
+  //Exercício de Menu Drawer
+  // runApp(const MenuComponent());
 
-  //Exercício de receita
-  // runApp(const Recipe());
+  //Exercício Navigation Bar
+  //runApp(const MyNavigatorBar());
 
-  //Exercício alinhamento
-  // runApp(const Alinhamento());
+  //Exercício Progress Bar
+  //runApp(const MyProgressBar());
 
-  //Exercício stone
-  runApp(const Stone());
+  // Exercício NFT
+  runApp(const MyCard());
 }

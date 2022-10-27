@@ -1,21 +1,21 @@
 # Exercícios de Flutter
 
-## Exercício 1 - Contador de Moedas
+## Exercício 1 - AppBar Icon
 
-- Objetivo: Desenvolver um aplicativo que faça a contagem dos cliques do usuário na tela e mostre a quantidade de “moedas” adquiridas a cada clique, utilizando setState.
+- Objetivo: Adicionar um ícone de café na AppBar, com o título Coffee.
 
-## Exercício 2 - Reuso de Component
+## Exercício 2 - Menu Drawer
 
-- Objetivo: Criar um componente que pode ser reutilizado para criar novos blocos coloridos, com diferentes cores e tamanhos.
+- Objetivo: Adicionar um menu na AppBar com 3 opções.
 
-## Exercício 3 - Receita de Bolo
+## Exercício 3 - Navigation Bar
 
-- Objetivo: Desenvolver um aplicativo que mostre uma imagem e abaixo dela, blocos de cores diferentes, distribuídos igualmente.
+- Objetivo: Adicionar barra de navegação inferior, com 3 opções.
 
-## Exercício 4 - Alinhamentos
+## Exercício 4 - Progress Bar
 
-- Objetivo: Desenvolver um aplicativo que mostre blocos alinhados nos eixos principal e cruzado.
+- Objetivo: Desenvolver uma barra de progresso que mostra a porcentagem de carregamento.
 
 ## Exercício 5 - Stone Fragments
 
-- Objetivo: Desenvolver um aplicativo que faça a contagem dos cliques do usuário na tela e mostre a quantidade de “fragmentos” da Joia do Espaço adquiridos a cada clique, utilizando setState.
+- Objetivo: Desenvolver um Card de apresentação de um NFT.
