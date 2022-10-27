@@ -16,6 +16,6 @@
 
 - Objetivo: Desenvolver uma barra de progresso que mostra a porcentagem de carregamento.
 
-## Exercício 5 - Stone Fragments
+## Exercício 5 - Card NFT
 
 - Objetivo: Desenvolver um Card de apresentação de um NFT.
