@@ -41,7 +41,7 @@ class MenuDrawer extends StatelessWidget {
             SubDrawerComponent(
               subDrawerTitle: 'Flutter',
               subDrawerSubTitle: 'Tudo são widgets',
-              subDrawerIcon: Icons.bolt,
+              subDrawerIcon: Icons.flash_on,
               subDrawerColor: Colors.blue,
             ),
             SubDrawerComponent(
